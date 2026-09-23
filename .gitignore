@@ -1,0 +1,26 @@
+﻿# Visual Studio тимчасові кеші та налаштування
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Результати компіляції (бінарники)
+[Bb]in/
+[Oo]bj/
+
+# Звіти та артефакти виконання тестів
+TestResults/
+[Tt]est[Rr]esult*/
+
+# Інструменти покриття коду (Fine Code Coverage)
+FCC/
+fcc/
+.fcc/
+Coverage/
+*.coverage
+*.coveragexml
+
+# Локальні бази даних (замість них пушать .sql скрипти)
+*.mdf
+*.ldf
